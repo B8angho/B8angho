@@ -1,10 +1,15 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=B8angho&fontSize=90&FontAliignY=45)
+<br><br><br>
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B8angho&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B8angho&layout=compact&theme=tokyonight)
-
+</div>
 <!--
 **devpla/devpla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
