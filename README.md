@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=B8angho&fontSize=90&FontAliignY=45)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&pause=1000&color=A068F7&center=true&multiline=true&width=435&height=70&lines=Don't+dream%2C+Be+it;Present+is+present" alt="Typing SVG" /></a>
 <h4>📣정비중...</h4>
 
 <!--
