@@ -1,7 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=B8angho&fontSize=90&FontAliignY=45)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&pause=1000&color=A068F7&center=true&multiline=true&width=435&height=70&lines=Don't+dream%2C+Be+it;Present+is+present" alt="Typing SVG" /></a>
+<div align="cener">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&pause=1000&color=7766D2&center=true&width=435&height=70&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+B8angho%E3%80%80%E3%80%80;%E3%80%80%E3%80%80Present+is+present%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
 <h4>📣정비중...</h4>
 
+
+
+
+
+</div>
 <!--
 **devpla/devpla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
